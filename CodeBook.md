@@ -27,9 +27,8 @@ The 68 variables are listed below:
 
 1. subject and activity,
 
-* subject, the numeric ID of the 30 test subjects  
+* subject, the numeric ID of the 30 test subjects
 * activity, the 6 activity ID 
-
 2. and the Measurements (66 means):
         
 * tBodyAcc-mean()-X
